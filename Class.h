@@ -31,7 +31,7 @@ public:
        hdd = h;
 	}
 
-
+// log
 	void getPrivate()
 	{
 		cout << "Name -  " << name << endl << "Processor speed -  " <<speed<< endl << "RAM -  " << ram << endl;
